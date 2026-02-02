@@ -1,10 +1,10 @@
-#🖩 Smart Calculator
+# 🖩 Smart Calculator
 
 A simple dynamic calculator with real-time evaluation, dark/light mode, and history tracking. It updates results as you type and saves all your calculations for easy reference.
 
-##✨ Features
+## ✨ Features
 
-*💡 Dark & Light Mode* – Switch between themes for comfortable use anytime.
+_💡 Dark & Light Mode_ – Switch between themes for comfortable use anytime.
 
 📝 History Tracking – Press Enter to save any expression to the history panel. Easily access all previous calculations.
 
